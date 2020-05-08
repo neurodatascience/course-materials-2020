@@ -1,0 +1,3 @@
+[submodule "website"]
+	path = website
+	url = https://github.com/neurodatascience/course-2020
