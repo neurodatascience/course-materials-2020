@@ -1,3 +1,6 @@
 [submodule "website"]
 	path = website
 	url = https://github.com/neurodatascience/course-2020
+[submodule "lectures/11-may/04-intro-to-git"]
+	path = lectures/11-may/04-intro-to-git
+	url = https://github.com/emdupre/git-course
