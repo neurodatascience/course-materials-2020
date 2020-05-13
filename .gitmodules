@@ -4,3 +4,6 @@
 [submodule "lectures/11-may/04-intro-to-git"]
 	path = lectures/11-may/04-intro-to-git
 	url = https://github.com/emdupre/git-course
+[submodule "lectures/13-may/02-tools-for-project-management"]
+	path = lectures/13-may/02-tools-for-project-management
+	url = https://github.com/effigies/bids-ecosystem.git
