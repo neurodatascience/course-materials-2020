@@ -7,3 +7,6 @@
 [submodule "lectures/13-may/02-tools-for-project-management"]
 	path = lectures/13-may/02-tools-for-project-management
 	url = https://github.com/effigies/bids-ecosystem.git
+[submodule "assignment"]
+	path = assignment
+	url = https://github.com/neurodatascience/course-2020-assessments/
